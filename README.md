@@ -6,16 +6,16 @@
 
 ## 📋 **Tabla de Contenidos**
 
-1. [Introducción](./introduccion/introduccion.md)  
-2. [Gestión de Repositorios](./gestion-de-repositorios/gestion-de-repositorios.md)  
-3. [Uso de Git y GitHub](./uso-de-git-y-github/uso-de-git-y-github.md)  
-4. [Colaboración en Proyectos](./Colaboracion-en-proyectos/Colaboracion-en-proyectos.md)  
-5. [Automatización y Despliegue](./automatizacion-despliegue/automatizacion-despliegue.md)  
-6. [Entornos de Desarrollo en la Nube](./entornos_nube/codespace.md)  
-   - [Codespaces](./entornos_nube/codespace.md)  
-   - [Dev Editor](./entornos_nube/dev-editor.md)  
-7. [Buenas Prácticas](./Buenas_practicas/buenas-practicas.md)  
-8. [Recursos Adicionales](./Recursos_adicionales/recursos-adicionales.md)  
+1. [Introducción](./1.%20introduccion/introduccion.md)  
+2. [Gestión de Repositorios](./2.%20gestion%20de%20repositorios/gestion-de-repositorios.md)  
+3. [Uso de Git y GitHub](./3.%20uso%20de%20git%20y%20github/uso-de-git-y-github.md)  
+4. [Colaboración en Proyectos](./4.Colaboracion-en-proyectos/Colaboracion-en-proyectos.md)  
+5. [Automatización y Despliegue](./5.Automatizacion-y-despliegue/automatizacion-despliegue.md)  
+6. Entornos de Desarrollo en la Nube  
+   - [Codespaces](./6.entornos_nube/codespace.md)  
+   - [Dev Editor](./6.entornos_nube/dev-editor.md)  
+7. [Buenas Prácticas](./7.Buenas_practicas/buenas-practicas.md)  
+8. [Recursos Adicionales](./8.Recursos_adicionales/recursos-adicionales.md)  
 
 ---
 
