@@ -37,7 +37,7 @@ Aplicar buenas prácticas al trabajar con Git y GitHub permite mantener un proye
 - **Asigna Issues y tareas a los miembros del equipo.**
 - **Comenta en los pull requests y commits cuando sea necesario.**
 - **Usa etiquetas como `documentation`, `bug`, `enhancement` para clasificar Issues.**
-
+![alt text](image.png)
 ---
 
 ## 🧪 Verificación antes de subir cambios

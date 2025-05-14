@@ -1,5 +1,5 @@
 # GitHub Codespaces
-
+![alt text](image.png)
 ## ¿Qué es?
 
 GitHub Codespaces es un entorno de desarrollo completo en la nube. Funciona como Visual Studio Code, pero directamente desde el navegador. Te permite escribir, ejecutar y depurar código sin instalar nada en tu computadora.
