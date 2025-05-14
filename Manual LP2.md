@@ -32,3 +32,33 @@ Es un software de control de versiones distribuido, creado por Linus Torvalds, q
 ### Requisitos previos
 
 Para utilizar GitHub, **no es necesario ser un experto en programación o sistemas**, aunque lo recomendable es tener instalado el software Git y poseer conocimientos básicos como el empleo de funciones básicas de Git (*git add*,*git commit*, *git push*), comandos básicos en la terminal, lenguajes de programación y un editor de código. Un paso fundamental para acceder a GitHub es **crear una cuenta (gratuita) en la nube de GitHub** mediante un **correo electrónico**, lo cual se puede hacer mediante el botón ***Sign up*** en la página web de GitHub.
+
+## GESTIÓN DE REPOSITORIOS
+
+### Creación de un repositorio
+
+En el entorno de GitHub, un **repositorio** es un lugar donde se almacena el contenido de un proyecto, tales como códigos, archivos y el historial de revisiones para cada archivo. Pueden tener uno o muchos colaboradores y ser almacenados tanto de manera pública como privada.
+
+Los repositorios pueden ser creados dentro de la cuenta personal o en la cuenta de alguna organización en la que el usuario cuente con permisos previos.
+
+1. En la esquina superior derecha de la página de GitHub, hacer clic en el botón **"+"** y luego en **"New repository"**.
+2. Escribir un nombre corto para el repositorio, que sea fácil de recordar.
+3. Añadir una descripción al repositorio (opcional).
+4. Elegir la opción de visibilidad del repositorio, si es **público** (por defecto, visible para cualquier usuario) o privado (visible para el creador y personas que tengan acceso compartido).
+
+
+![alt text](image-1.png)
+
+### Clonación y configuración inicial
+
+
+
+### Buenas prácticas de organización
+
+## USO DE GIT Y GITHUB
+
+### Fundamentos de Git
+
+### Sincronización con GitHub
+
+### Uso de Git en el entorno GitHub
