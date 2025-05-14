@@ -1,2 +1,1 @@
-=======
 # Manual_GitHub_LP2
