@@ -45,6 +45,7 @@ Los repositorios pueden ser creados dentro de la cuenta personal o en la cuenta 
 2. Escribir un nombre corto para el repositorio, que sea fácil de recordar.
 3. Añadir una descripción al repositorio (opcional).
 4. Elegir la opción de visibilidad del repositorio, si es **público** (por defecto, visible para cualquier usuario) o privado (visible para el creador y personas que tengan acceso compartido).
+5. Teclear el nombre del repositorio, y añade una descripción opcional.
 
 
 ![alt text](image-1.png)
