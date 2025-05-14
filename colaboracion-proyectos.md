@@ -37,3 +37,6 @@ gh issue edit 123 --add-label "bug"
 
 # Asociar un milestone
 gh issue edit 123 --milestone "Sprint 1"
+```
+
+---

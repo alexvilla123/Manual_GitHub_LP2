@@ -1,0 +1,74 @@
+## Pull Requests
+
+### ¿Qué es un Pull Request?
+
+Un **Pull Request (PR)** permite a los colaboradores proponer cambios a un repositorio y discutirlos antes de fusionarlos en la rama principal. Es fundamental para la colaboración y revisión de código.
+
+![Pull Request en GitHub](https://docs.github.com/assets/cb-87213/images/help/pull_requests/pull-request-review-edit-branch.png)
+
+### Revisión, Comentarios y Merge
+
+1. Accede al repositorio y ve a la pestaña **Pull Requests**.
+2. Crea un nuevo Pull Request seleccionando las ramas de origen y destino.
+3. Revisa los cambios, deja comentarios y solicita revisiones.
+4. Una vez aprobados, haz clic en **Merge Pull Request**.
+
+Ejemplo CLI:
+
+```bash
+# Crear un nuevo Pull Request
+gh pr create --title "Agregar nueva funcionalidad" --body "Implementación de la función de carga de archivos."
+
+# Fusionar un Pull Request
+gh pr merge 456 --squash
+```
+
+### Resolución de Conflictos
+
+Si hay conflictos al intentar hacer merge:
+
+1. Actualiza tu rama local:
+
+```bash
+git checkout mi-rama
+git pull origin main
+```
+
+2. Edita los archivos en conflicto y marca como resueltos:
+
+```bash
+git add archivo-en-conflicto.js
+git commit -m "Conflicto resuelto"
+```
+
+3. Intenta fusionar nuevamente el Pull Request.
+
+---
+
+## Gestión de Proyectos con GitHub Projects
+
+### Creación de Tableros y Tarjetas
+
+- Accede a la pestaña **Projects** del repositorio.
+- Haz clic en **New Project** para crear un tablero.
+- Añade tarjetas relacionadas a issues o pull requests.
+
+Ejemplo CLI:
+
+```bash
+# Crear un nuevo tablero de proyecto
+gh project create --title "Sprint 2"
+
+# Agregar un issue al tablero
+gh project item add 123 --project 789
+```
+
+![Tableros de Proyectos](https://misovirtual.virtual.uniandes.edu.co/codelabs/tableros-proyecto-github/img/8ee1e4d39b396c36.png)
+
+### Flujos de Trabajo Integrados con Issues y PRs
+
+- Cada tarjeta en un tablero puede vincularse a un issue o PR.
+- Los cambios en los issues y PRs se reflejan automáticamente en el tablero.
+
+---
+
